@@ -1,6 +1,6 @@
 # manipulador-fasta
 
-## Script para manipulação de sequências FASTA a partir de um arquivo CSV com as informações
+## Script para manipulação de sequências FASTA
 
 - select_virus
 - rename_virus
